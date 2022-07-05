@@ -23,18 +23,18 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
+  global.ownername = 'Paktam' // Ganti Jadi Namamu
+  global.owner = ['6281575886399','601169655956'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '601169655956' // Owner Utama Istilahnya
+  global.botname = 'pAktamBotx' // Ganti Jadi Nama Botmu
+  global.packname = 'BotzKhai' // Sticker Weem
+  global.author = 'Khai' // Sticker Weem
   global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.linkgroup = 'https://chat.whatsapp.com/D1iidBHRLDm0N1sLKTLgEp' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
+  global.github = 'https://github.com/PaktamXbotz' // Ganti Sama Link Github Mu
+  global.instagram = 'https://instagram.com/miakhalifa' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -58,12 +58,12 @@
   global.mess = {
   admin: '_Lu Admin? 🤨_',
   botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
+  owner: '_Ko Bukan Owner Aku 😌_',
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '_Sabar Sedang Di Proses ..._',
-  done: '_Done Ngab 🤗_',
+  wait: '_Sabar Tengah Proses ..._',
+  done: '_Done  ☕_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
